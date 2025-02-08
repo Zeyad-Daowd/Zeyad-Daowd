@@ -2,7 +2,9 @@
 ⭐️ What I Do
 
 💡 Software Development and Web Development: I am ex software engineering intern @Siemens DISW
+
 📊 I am currently learning about machine learning and deep learning.
+
 🔥 I am looking to collaborate on interesting and challenging projects
 
 # 💻 Tech Stack:
