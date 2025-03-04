@@ -1,2 +1,4 @@
-*.v linguist-vendored
-*.vh linguist-vendored
+*.v linguist-detectable=false
+*.vh linguist-detectable=false
+*.sv linguist-detectable=false
+*.vhd linguist-detectable=false
