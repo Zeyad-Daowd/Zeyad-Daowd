@@ -2,7 +2,7 @@
 
 ### Computer Engineering Student | Systems & Infrastructure | PostgreSQL Contributor
 
-- 🎓 Senior Computer Engineering student @ Cairo University (GPA 4.0, 2nd in department)
+- 🎓 Senior Computer Engineering student @ Cairo University
 - 🐘 Contributing to **pgagroal, pgmoneta, pgexporter** - 6 merged PRs in the PostgreSQL ecosystem
 - ⚙️ Implemented **Raft consensus, fault-tolerant KV store, and sharded KV service** in Go (MIT 6.5840)
 - 🏢 Software Engineering Intern @ **Siemens Digital Industries Software** (twice — 2024 & 2025)
